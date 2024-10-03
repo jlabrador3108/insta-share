@@ -19,3 +19,4 @@
 3. Start each project
 - npm run dev
 4. Access the url provided by the insta-share-front
+- default: http://localhost:5173
