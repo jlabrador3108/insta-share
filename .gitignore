@@ -1,0 +1,11 @@
+insta-share-front/node_modules
+
+insta-share-front/yarn.lock
+
+insta-share-server/node_modules
+
+insta-share-server/yarn.lock
+
+insta-share-server/prisma/migrations
+
+/notifications-engine/build
